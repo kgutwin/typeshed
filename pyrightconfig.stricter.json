@@ -36,6 +36,7 @@
         "stubs/Flask-Migrate",
         "stubs/Flask-SQLAlchemy",
         "stubs/fpdf2",
+        "stubs/fuse-python",
         "stubs/html5lib",
         "stubs/httplib2",
         "stubs/humanfriendly",
